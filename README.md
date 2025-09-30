@@ -1,4 +1,16 @@
-### Bug Report
+# QA Portfolio
 
-Untuk bug report lengkap, silakan lihat Trello board saya:
-https://trello.com/invite/b/68d7d45030f8e5d27e1e56c5/ATTIe6d0abe61d59c0a6c648c0fe6a5e69f31C7DF980/pet-store-web-dibimbing-project
+Selamat datang di QA Portfolio saya! 🎯
+
+Repo ini berisi contoh pekerjaan QA saya:
+- 📂 [Test Cases](Test-Cases/)
+- 🐞 [Bug Reports](Bug-Reports/)
+- 📊 [SQL Queries](SQL-Queries/) (coming soon)
+- 🔌 [API Testing](API-Testing/) 
+- 🤖 [Automation Scripts](Automation-Scripts/) (coming soon)
+
+---
+
+## Bug Reports
+Untuk detail bug report, buka folder [Bug-Reports](Bug-Reports/).  
+Di sana juga tersedia link menuju Trello board saya.
