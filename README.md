@@ -13,8 +13,8 @@ Tujuannya untuk menunjukkan kemampuan saya dalam membuat test case, bug report, 
 - **Documentation** → QA Strategy, Exploratory Testing Notes  
 
 ## 🔹 Tools & Skills
-- Manual Testing (Functional, Regression, Exploratory, UAT)  
-- Automation (Selenium WebDriver Java, Katalon Studio)  
+- Manual Testing (Functional, Regression, Compatibility, Smoke, Sanity, Ad-hoc, UAT)  
+- Automation (Selenium WebDriver Java (soon), Katalon Studio)  
 - API Testing (Postman, Newman)  
 - Test Management (Jira, Qase, Trello, TestRail)  
 
